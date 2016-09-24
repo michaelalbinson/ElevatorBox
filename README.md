@@ -15,7 +15,7 @@ To reset:
 3. the lights should begin flashing and you can follow the steps above to reset the number as desired *OR* to simply restart the count just press the top red button again
 
 ## schematic
-![alt tag](https://raw.githubusercontent.com/michaelalbinson/ElevatorBox/raw/master/Schema.jpg)
+![alt tag](https://raw.githubusercontent.com/michaelalbinson/ElevatorBox/master/Schema.jpg)
 
 ##Code Reference 
 On the off chance you need to change the code at all... here's a reference for it:
